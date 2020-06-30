@@ -13,6 +13,8 @@ flask-cors = "*"
 cloudinary = "*"
 marshmallow-sqlalchemy = "*"
 python-dotenv = "*"
+gunicorn = "*"
+dependency = "*"
 
 [requires]
 python_version = "3.8"
